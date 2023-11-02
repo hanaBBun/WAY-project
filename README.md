@@ -2,7 +2,8 @@
 ## 💚 산책로 추천 & 커뮤니티 사이트
 스프링 부트 + JPA 산책로 추천 커뮤니티
 
-<h2>🌟<a href="https://iamjeesoo.notion.site/WAY-bf98dac7beb6444a963e115519af7d5f?pvs=4">팀 노션 링크</a></h2>
+## 💚 소개 노션 링크
+https://iamjeesoo.notion.site/WAY-bf98dac7beb6444a963e115519af7d5f?pvs=4
 
 ## 💚 프로젝트 소개
 건강이라는 키워드에 관심이 많아지면서 주변에서 쉽게 접할 수 있는 산책로를 소개해주는 서비스의 필요성이 증대되었다. 
