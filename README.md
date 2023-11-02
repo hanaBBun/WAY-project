@@ -103,4 +103,5 @@
 - 다른 회원의 프로필의 경우 해당 회원이 작성한 글, 업로드한 이미지의 단순 조회가 가능하다.
 
 ## 💚 시연영상
-https://drive.google.com/file/d/1D711NKUN83ytbPaG0dMT75a3MTfKgk9-/view
+https://drive.google.com/file/d/1dPDpHELZ4DI-Ro29lcH7yZzjjxFzGkCp/view
+
